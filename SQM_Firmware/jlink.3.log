@@ -1,0 +1,11 @@
+
+T1AEC 080:620 SEGGER J-Link V6.48a Log File (0001ms, 25175ms total)
+T1AEC 080:620 DLL Compiled: Jul 30 2019 15:16:09 (0001ms, 25175ms total)
+T1AEC 080:620 Logging started @ 2021-05-19 19:55 (0001ms, 25175ms total)
+T1AEC 080:669 JLINK_ExecCommand("Device = ATSAMD21G18A", ...). Device "ATSAMD21G18" selected.  returns 0x00 (0010ms, 25185ms total)
+T1AEC 080:703 JLINK_ExecCommand("ShowControlPanel", ...).   returns 0x00 (2466ms, 27651ms total)
+T1CD0 083:169 JLINK_EMU_GetList(InterfaceMask = 0x00000001, MaxInfos = 0x00000032) [0]: USB, S/N: 260105735  returns 0x01 (0045ms, 27696ms total)
+T1CD0 083:216 JLINK_EMU_GetList(InterfaceMask = 0x00000002, MaxInfos = 0x00000032)   returns 0x00 (0026ms, 27722ms total)
+T1AEC 083:244 JLINK_Close() (0003ms, 27725ms total)
+T1AEC 083:244  (0003ms, 27725ms total)
+T1AEC 083:244 Closed (0003ms, 27725ms total)
